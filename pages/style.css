@@ -14,3 +14,37 @@
 #top-page-img {
   width: 100%;
 }
+
+#contact {
+  width: 50%;
+  margin: 0 auto 50px auto;
+}
+
+#contact > h2 {
+  text-align: center;
+  padding-top: 150px;
+  margin-bottom: 50px;
+}
+
+#email {
+  width: 100%;
+  margin-bottom: 50px;
+  font-size: large;
+}
+
+#contact-detail {
+  width: 100%;
+  height: 50vh;
+  margin-bottom: 50px;
+  font-size: large;
+}
+
+#contact-form > button {
+  width: 100%;
+  height: 50px;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  background: linear-gradient(to bottom right, #493a40, #2c424d);
+}
+  
